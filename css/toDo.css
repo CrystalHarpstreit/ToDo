@@ -1,0 +1,9 @@
+.app {
+  position: relative;
+  top: 70px;
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through;
+}
